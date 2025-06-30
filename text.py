@@ -9,3 +9,4 @@ class MyTestCase(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 import pandas as pd
+import numpy as np
